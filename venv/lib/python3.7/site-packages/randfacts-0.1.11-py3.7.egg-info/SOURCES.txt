@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+randfacts/__init__.py
+randfacts/main.py
+randfacts.egg-info/PKG-INFO
+randfacts.egg-info/SOURCES.txt
+randfacts.egg-info/dependency_links.txt
+randfacts.egg-info/requires.txt
+randfacts.egg-info/top_level.txt
